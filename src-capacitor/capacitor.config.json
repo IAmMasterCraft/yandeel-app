@@ -1,0 +1,7 @@
+{
+  "appId": "yandeel.org.app",
+  "appName": "Yandeel",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
